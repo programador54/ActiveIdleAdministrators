@@ -1,0 +1,30 @@
+{
+  "name": "ActiveIdleAdministrators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^4.0.1",
+    "canvas": "^2.6.1",
+    "discord-anti-spam": "^2.4.1",
+    "discord-canvas": "^1.3.2",
+    "discord.js": "^12.2.0",
+    "enmap": "^5.8.0",
+    "express": "^4.17.1",
+    "firebase": "^7.23.0",
+    "fonts": "0.0.2",
+    "fs": "0.0.1-security",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.2",
+    "simple-youtube-api": "^5.2.1",
+    "webhook-discord": "^3.7.7",
+    "ytdl-core": "^4.0.0"
+  }
+}
